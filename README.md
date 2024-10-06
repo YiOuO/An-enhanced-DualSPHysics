@@ -1,4 +1,6 @@
 # DualSPHysics+: An enhanced DualSPHysics with improvements in accuracy, energy conservation and resolution of the continuity equation.
+
+![image](https://github.com/YiOuO/DualSPHysics_Plus/blob/main/figures/abstract.png)
 More detail on the enhanced model can be referred to https://www.sciencedirect.com/science/article/pii/S0010465524003126
 
 Each case contains two folders, one for code and one for configuration.
