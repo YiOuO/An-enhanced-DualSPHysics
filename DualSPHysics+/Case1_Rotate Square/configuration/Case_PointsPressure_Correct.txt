@@ -1,0 +1,9 @@
+POINTSLIST 
+0.0 0.0 0.0
+0 0 0
+1 1 1
+
+#"POINTSLIST"
+#BeginX BeginY BeginZ
+#StepX StepY StepZ
+#CountX CountY CountZ
